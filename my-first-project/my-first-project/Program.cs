@@ -10,6 +10,7 @@ namespace my_first_project
     {
         static void Main(string[] args)
         {
+            string fst_Name = "Afsar";
             Console.WriteLine("This is First project");
             Console.ReadKey();
         }
